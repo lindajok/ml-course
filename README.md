@@ -1,1 +1,1 @@
-# ml-course
+# Machine learning for linguists course 
